@@ -1,0 +1,5 @@
+C:\JAVA
+  ├── README.md
+  └── test.txt      ← 새로 만든 파일
+  Java 공부 1일차
+GitHub 업로드 테스트
